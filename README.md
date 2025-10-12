@@ -1,6 +1,4 @@
-<div align="left">
-  
-# TechNova - My Portfolio Website
+  # TechNova - My Portfolio Website
 
 ### Overview
 This is my personal portfolio website.  
@@ -29,4 +27,17 @@ This portfolio reflects my journey as a developer and my interest in design and 
 ### Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+---
+### How to Run Locally
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/sandhya13r/technova-portfolio.git
+2. Open the folder in VS Code or any code editor
+
+3. Run the project by simply opening index.html in your browser
+---
+### Live Demo  
+The website is hosted on Render.  
+**View it here:** [https://technova-portfolio.onrender.com](https://technova-portfolio.onrender.com)
+
