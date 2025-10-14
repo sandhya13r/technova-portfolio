@@ -62,6 +62,7 @@ You can view it here: https://technova-portfolio.onrender.com
 
 ### **Credits**
 Developed by **Sandhya R**  
+
 GitHub: https://github.com/sandhya13r
 
 LinkedIn: www.linkedin.com/in/r-sandhya-071609373
