@@ -44,13 +44,13 @@ You can view it here: https://technova-portfolio.onrender.com
    ```bash
    git clone https://github.com/sandhya13r/technova-portfolio.git
 2. **Navigate to the project directory**
-
-cd technova-portfolio
+    
+     cd technova-portfolio
 
 
 3. **Open the project**
 
-Open the index.html file in any browser.
+     Open the index.html file in any browser.
 
 ---
 
