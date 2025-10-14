@@ -38,18 +38,26 @@ The portfolio is deployed live on **Render**.
 You can view it here: https://technova-portfolio.onrender.com
 
 ---
+###How to Run Locally
 
-### **Future Enhancements**
-- Add a **dark mode toggle** for better UI experience.  
-- Include a **contact form** using a backend service (like Flask or Node.js).  
-- Add more interactive **animations and transitions**.  
-- Improve **SEO optimization** for discoverability.  
+### 1. Clone this repository
+
+git clone https://github.com/sandhya13r/technova-portfolio.git
+
+
+### 2. Open the project folder
+
+cd technova-portfolio
+
+
+### 3. Open index.html in your browser to view the site.
 
 ---
 
 ### **Credits**
 Developed by **Sandhya R**  
 GitHub: https://github.com/sandhya13r
+
 LinkedIn: www.linkedin.com/in/r-sandhya-071609373
 
 
