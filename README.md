@@ -38,19 +38,19 @@ The portfolio is deployed live on **Render**.
 You can view it here: https://technova-portfolio.onrender.com
 
 ---
-###How to Run Locally
+### **Steps to Run the Project**
 
-### 1. Clone this repository
-
-git clone https://github.com/sandhya13r/technova-portfolio.git
-
-
-### 2. Open the project folder
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/sandhya13r/technova-portfolio.git
+2. **Navigate to the project directory**
 
 cd technova-portfolio
 
 
-### 3. Open index.html in your browser to view the site.
+3. **Open the project**
+
+Open the index.html file in any browser.
 
 ---
 
