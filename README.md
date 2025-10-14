@@ -54,6 +54,12 @@ You can view it here: https://technova-portfolio.onrender.com
 
 ---
 
+### Screenshot of my portfolio website:
+
+<img width="1815" height="882" alt="image" src="https://github.com/user-attachments/assets/24af98b6-e620-4b55-a255-5a96aae20c2d" />
+
+---
+
 ### **Credits**
 Developed by **Sandhya R**  
 GitHub: https://github.com/sandhya13r
